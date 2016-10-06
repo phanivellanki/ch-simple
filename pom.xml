@@ -39,7 +39,7 @@
 <pluginRepositories>
 <pluginRepository>
 <id>releases</id>
-        <url>http://localhost:8081/nexus-2.13.0-01/content/groups/public/</url>
+        <url>http://127.0.0.1:8085/repository/maven-public/</url>
         <releases>
 <enabled>true</enabled>
 </releases>
